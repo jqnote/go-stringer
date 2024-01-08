@@ -1,0 +1,1 @@
+增加参数 -printvalues ，给 ${typeName}Values() []Type 方法
